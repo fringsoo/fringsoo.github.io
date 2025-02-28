@@ -26,8 +26,9 @@ My main research interests lie at the intersection of natural language processin
 
 ## Recent Works
 > (†: equal contribution)
+- [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective](https://arxiv.org/abs/2501.00581)<br>**Yipeng Kang**, Junqi Wang, Yexin Li, Mengmeng Wang, Wenming Tu, Quansen Wang, Hengli Li, Tingjun Wu, Xue Feng, Fangwei Zhong, Zilong Zheng<br>
 
-- [RAM: Towards an Ever-Improving Memory System by Learning from Communications](https://arxiv.org/abs/2404.12045)<br>Jiaqi Li, Xiaobo Wang, Wentao Ding, Zihao Wang, **Yipeng Kang**, Zixia Jia, Zilong Zheng.<br>EMNLP 2024 (Under Review). Reported by [麻省理工科技评论](https://m.weibo.cn/status/5069118812455700).
+- [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](https://arxiv.org/abs/2410.16237)<br>Yihuan Mao†, **Yipeng Kang**†, Peilun Li, Ning Zhang, Wei Xu, Chongjie Zhang.<br>AAMAS 2025 (Extended Abstract).
 
 - [Multi-Agent Policy Transfer via Task Relationship Modeling](https://github.com/fringsoo/CGMIX)<br>Rongjun Qin, Feng Chen, Tonghan Wang, Lei Yuan, Xiaoran Wu, **Yipeng Kang**, Zongzhang Zhang, Chongjie Zhang, Yang Yu.<br>SCIS 2023 (CCF-A).
 
@@ -40,6 +41,8 @@ My main research interests lie at the intersection of natural language processin
   <br>
 
 > Other works.
+- [RAM: Towards an Ever-Improving Memory System by Learning from Communications](https://arxiv.org/abs/2404.12045)<br>Jiaqi Li, Xiaobo Wang, Wentao Ding, Zihao Wang, **Yipeng Kang**, Zixia Jia, Zilong Zheng.<br> Reported by [麻省理工科技评论](https://m.weibo.cn/status/5069118812455700).
+
 - [Reinforced Natural Language Interfaces via Entropy Decomposition](https://arxiv.org/abs/2109.11408)<br>Xiaoran Wu, **Yipeng Kang**<br>
 
 
