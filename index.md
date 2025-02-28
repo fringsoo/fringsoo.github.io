@@ -26,6 +26,7 @@ My main research interests lie at the intersection of natural language processin
 
 ## Recent Works
 > (†: equal contribution)
+
 - [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective](https://arxiv.org/abs/2501.00581)<br>**Yipeng Kang**, Junqi Wang, Yexin Li, Mengmeng Wang, Wenming Tu, Quansen Wang, Hengli Li, Tingjun Wu, Xue Feng, Fangwei Zhong, Zilong Zheng<br>
 
 - [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](https://arxiv.org/abs/2410.16237)<br>Yihuan Mao†, **Yipeng Kang**†, Peilun Li, Ning Zhang, Wei Xu, Chongjie Zhang.<br>AAMAS 2025 (Extended Abstract).
