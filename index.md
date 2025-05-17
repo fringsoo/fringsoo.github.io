@@ -19,6 +19,7 @@ Email: *kangyipeng[at]bigai[dot]ai*
 
 ## Research Interests
 My main research interests lie at the intersection of natural language processing (NLP) and multiagent systems (MAS), with a particular focus on:
+- AI and social governance
 - Value system and alignment of large language models
 - Social intelligence of language agents
 
@@ -27,7 +28,8 @@ My main research interests lie at the intersection of natural language processin
 ## Recent Works
 > (†: equal contribution)
 
-- [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective](https://arxiv.org/abs/2501.00581)<br>**Yipeng Kang**, Junqi Wang, Yexin Li, Mengmeng Wang, Wenming Tu, Quansen Wang, Hengli Li, Tingjun Wu, Xue Feng, Fangwei Zhong, Zilong Zheng<br>
+- [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective](https://arxiv.org/abs/2501.00581)<br>**Yipeng Kang**, Junqi Wang, Yexin Li, Mengmeng Wang, Wenming Tu, Quansen Wang, Hengli Li, Tingjun Wu, Xue Feng, Fangwei Zhong, Zilong Zheng<br>ACL 2025 Findings (CCF-A).
+
 
 - [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](https://arxiv.org/abs/2410.16237)<br>Yihuan Mao†, **Yipeng Kang**†, Peilun Li, Ning Zhang, Wei Xu, Chongjie Zhang.<br>AAMAS 2025 (Extended Abstract).
 
@@ -48,7 +50,9 @@ My main research interests lie at the intersection of natural language processin
 
 
 ## Professional Services
-Conference reviewer for NeurIPS 2023-2024, ICLR 2024-2025, etc.
+Conference reviewer for NeurIPS 2023-2025, ICLR 2024-2025, ICML2025.
+
+Program Committee AGI-25.
 
 ## Other Experiences
 - I was a **co-founder** of a start-up **Yishi-Tech**. 
@@ -63,8 +67,7 @@ Conference reviewer for NeurIPS 2023-2024, ICLR 2024-2025, etc.
 
 
 ## Students
-
-- PhD Students: 涂文明 (BIGAI & SJTU)
+- PhD Students: 涂文明 (BIGAI & SJTU), 陈国球 (BIGAI & BNU),  易明华(BIGAI & WHU), 何布帷(BIGAI & BUPT)
 - Other Students with Collaboration:
 
     --IIIS, Tsinghua： 毛怡欢，杨乾澜
@@ -72,6 +75,7 @@ Conference reviewer for NeurIPS 2023-2024, ICLR 2024-2025, etc.
     --Tong Class, Tsinghua： 吴廷钧，高晗晴，汪上砚，陈子昂
 
 <!-- 李可 -->
+<!-- 张钊为 -->
 
 
 <!-- ## Degree Thesis
