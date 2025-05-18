@@ -67,7 +67,7 @@ Program Committee AGI-25.
 
 
 ## Students
-- PhD Students: 涂文明 (BIGAI & SJTU), 陈国球 (BIGAI & BNU),  易明华(BIGAI & WHU), 何布帷(BIGAI & BUPT)
+- PhD Students: 涂文明 (BIGAI & SJTU), 陈国球 (BIGAI & BNU)， 何布帷(BIGAI & BUPT)
 - Other Students with Collaboration:
 
     --IIIS, Tsinghua： 毛怡欢，杨乾澜
