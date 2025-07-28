@@ -25,6 +25,8 @@ My main research interests lie at the intersection of natural language processin
 
 ## Recent Works
 > (†: equal contribution)
+
+
 - [EuroCon: Benchmarking Parliament Deliberation for Political Consensus Finding](https://arxiv.org/abs/2505.19558?)<br>Zhaowei Zhang, Minghua Yi, Mengmeng Wang, Fengshuo Bai, Zilong Zheng, **Yipeng Kang**, Yaodong Yang.
 
 
