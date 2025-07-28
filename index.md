@@ -19,19 +19,19 @@ Email: *kangyipeng[at]bigai[dot]ai*
 
 ## Research Interests
 My main research interests lie at the intersection of natural language processing (NLP) and multiagent systems (MAS), with a particular focus on:
-- AI and social governance
-- Value system and alignment of large language models
-- Social intelligence of language agents
-
+- AI value system and social governance
+- Interactive speech agent
 ---
 
 ## Recent Works
 > (†: equal contribution)
+- [EuroCon: Benchmarking Parliament Deliberation for Political Consensus Finding](https://arxiv.org/abs/2505.19558?)<br>Zhaowei Zhang, Minghua Yi, Mengmeng Wang, Fengshuo Bai, Zilong Zheng, **Yipeng Kang**, Yaodong Yang.
+
 
 - [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective](https://arxiv.org/abs/2501.00581)<br>**Yipeng Kang**, Junqi Wang, Yexin Li, Mengmeng Wang, Wenming Tu, Quansen Wang, Hengli Li, Tingjun Wu, Xue Feng, Fangwei Zhong, Zilong Zheng<br>ACL 2025 Findings (CCF-A).
 
 
-- [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](https://arxiv.org/abs/2410.16237)<br>Yihuan Mao†, **Yipeng Kang**†, Peilun Li, Ning Zhang, Wei Xu, Chongjie Zhang.<br>AAMAS 2025 (Extended Abstract).
+- [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](https://arxiv.org/abs/2410.16237)<br>Yihuan Mao†, **Yipeng Kang**†, Peilun Li, Ning Zhang, Wei Xu, Chongjie Zhang.<br>AAMAS 2025 (Extended Abstract) & AGI2025 (Oral).
 
 - [Multi-Agent Policy Transfer via Task Relationship Modeling](https://github.com/fringsoo/CGMIX)<br>Rongjun Qin, Feng Chen, Tonghan Wang, Lei Yuan, Xiaoran Wu, **Yipeng Kang**, Zongzhang Zhang, Chongjie Zhang, Yang Yu.<br>SCIS 2023 (CCF-A).
 
