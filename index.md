@@ -21,7 +21,7 @@ Email: *kangyipeng[at]bigai[dot]ai*
 My main research interests lie at the intersection of natural language processing (NLP) and multiagent systems (MAS), with a particular focus on:
 - AI value system and social governance
 - Interactive speech agent
----
+
 
 ## Recent Works
 > (†: equal contribution)
