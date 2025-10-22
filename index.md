@@ -26,9 +26,13 @@ My main research interests lie at the intersection of natural language processin
 ## Recent Works
 > (†: equal contribution)
 
+- [Make an Offer They Can't Refuse: Grounding Bayesian Persuasion in Real-World Dialogues without Pre-Commitment](https://arxiv.org/abs/2510.13387)<br>Buwei He, Yang Liu, Zhaowei Zhang, Zixia Jia, Huijia Wu, Zhaofeng He, Zilong Zheng, **Yipeng Kang**.
+ 
 
-- [EuroCon: Benchmarking Parliament Deliberation for Political Consensus Finding](https://arxiv.org/abs/2505.19558?)<br>Zhaowei Zhang, Minghua Yi, Mengmeng Wang, Fengshuo Bai, Zilong Zheng, **Yipeng Kang**, Yaodong Yang.
+- [PoliCon: Evaluating LLMs on Achieving Diverse Political Consensus Objectives](https://arxiv.org/abs/2505.19558)<br>Zhaowei Zhang, Minghua Yi, Mengmeng Wang, Fengshuo Bai, Zilong Zheng, **Yipeng Kang**, Yaodong Yang. <br> [Website](https://zowiezhang.github.io/projects/PoliCon/)
 
+
+- [Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://neurips.cc/virtual/2025/poster/121382)<br>Cooperate with the DeepMind Concordia Team<br>NeurIPS DB Track 2025 (CCF-A).
 
 - [Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective](https://arxiv.org/abs/2501.00581)<br>**Yipeng Kang**, Junqi Wang, Yexin Li, Mengmeng Wang, Wenming Tu, Quansen Wang, Hengli Li, Tingjun Wu, Xue Feng, Fangwei Zhong, Zilong Zheng<br>ACL 2025 Findings (CCF-A).
 
@@ -69,12 +73,12 @@ Program Committee AGI-25.
 
 
 ## Students
-- PhD Students: 涂文明 (BIGAI & SJTU), 陈国球 (BIGAI & BNU)， 何布帷(BIGAI & BUPT)
+- PhD Students: 何菀滢(BIGAI & WHU), 涂文明 (BIGAI & SJTU), 陈国球 (BIGAI & BNU)，何布帷(BIGAI & BUPT)
+
 - Other Students with Collaboration:
-
+    --PKU: 张钊为
     --IIIS, Tsinghua： 毛怡欢，杨乾澜
-
-    --Tong Class, Tsinghua： 吴廷钧，高晗晴，汪上砚，陈子昂
+    --Tong Class, Tsinghua： 吴廷钧，高晗晴，汪上砚，陈天奕
 
 <!-- 李可 -->
 <!-- 张钊为 -->
@@ -105,4 +109,4 @@ Program Committee AGI-25.
 - **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò. -->
 
 
-> Update: 15th Sep 2024
+> Update: 22 Sep 2025
