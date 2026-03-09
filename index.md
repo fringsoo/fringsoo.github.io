@@ -28,7 +28,7 @@ My main research interests lie at the intersection of natural language processin
 
 
  
-- [PoliCon: Evaluating LLMs on Achieving Diverse Political Consensus Objectives](https://arxiv.org/abs/2505.19558)<br>Zhaowei Zhang, Minghua Yi, Mengmeng Wang, Fengshuo Bai, Zilong Zheng*, **Yipeng Kang***, Yaodong Yang*. <br> 
+- [PoliCon: Evaluating LLMs on Achieving Diverse Political Consensus Objectives](https://arxiv.org/abs/2505.19558)<br>Zhaowei Zhang&#9993;, Minghua Yi, Mengmeng Wang, Fengshuo Bai, Zilong Zheng*, **Yipeng Kang**&#9993;, Yaodong Yang. <br> 
 ICLR 2026 (CCF-A)
 
 - [Make an Offer They Can't Refuse: Grounding Bayesian Persuasion in Real-World Dialogues without Pre-Commitment](https://arxiv.org/abs/2510.13387)<br>Buwei He, Yang Liu, Zhaowei Zhang, Zixia Jia, Huijia Wu, Zhaofeng He, Zilong Zheng, **Yipeng Kang**.<br>ICLR 2026  AIMS Workshop.
