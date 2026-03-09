@@ -20,17 +20,22 @@ Email: *kangyipeng[at]bigai[dot]ai*
 ## Research Interests
 My main research interests lie at the intersection of natural language processing (NLP) and multiagent systems (MAS), with a particular focus on:
 - AI value system and social governance
-- Interactive speech agent
+- Omni-modal interactive social agent
 
 
 ## Recent Works
 > (†: equal contribution)
 
-- [Make an Offer They Can't Refuse: Grounding Bayesian Persuasion in Real-World Dialogues without Pre-Commitment](https://arxiv.org/abs/2510.13387)<br>Buwei He, Yang Liu, Zhaowei Zhang, Zixia Jia, Huijia Wu, Zhaofeng He, Zilong Zheng, **Yipeng Kang**.
+
  
+- [PoliCon: Evaluating LLMs on Achieving Diverse Political Consensus Objectives](https://arxiv.org/abs/2505.19558)<br>Zhaowei Zhang, Minghua Yi, Mengmeng Wang, Fengshuo Bai, Zilong Zheng*, **Yipeng Kang***, Yaodong Yang*. <br> 
+ICLR 2026 (CCF-A)
 
-- [PoliCon: Evaluating LLMs on Achieving Diverse Political Consensus Objectives](https://arxiv.org/abs/2505.19558)<br>Zhaowei Zhang, Minghua Yi, Mengmeng Wang, Fengshuo Bai, Zilong Zheng, **Yipeng Kang**, Yaodong Yang. <br> [Website](https://zowiezhang.github.io/projects/PoliCon/)
+- [Make an Offer They Can't Refuse: Grounding Bayesian Persuasion in Real-World Dialogues without Pre-Commitment](https://arxiv.org/abs/2510.13387)<br>Buwei He, Yang Liu, Zhaowei Zhang, Zixia Jia, Huijia Wu, Zhaofeng He, Zilong Zheng, **Yipeng Kang**.<br>ICLR 2026  AIMS Workshop.
 
+- [Credibility Governance: A Social Mechanism for Collective Self-Correction under Weak Truth Signals](https://arxiv.org/abs/2603.02640)<br>Wanying He, Yanxi Lin, Ziheng Zhou, Xue Feng, Min Peng, Qianqian Xie, Zilong Zheng, **Yipeng Kang**.<br>ICLR 2026  AIMS Workshop.
+ 
+- [BEDA: Belief Estimation as Probabilistic Constraints for Performing Strategic Dialogue Acts](https://arxiv.org/abs/2512.24885)<br>Hengli Li, Zhaoxin Yu, Qi Shen, Chenxi Li, Mengmeng Wang, Tinglang Wu, **Yipeng Kang**, Yuxuan Wang, Song-Chun Zhu, Zixia Jia, Zilong Zheng<br>AAMAS 2026 (Extended Abstract) & ICLR 2026  AIMS Workshop.
 
 - [Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia](https://neurips.cc/virtual/2025/poster/121382)<br>Cooperate with the DeepMind Concordia Team<br>NeurIPS DB Track 2025 (CCF-A).
 
